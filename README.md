@@ -8,8 +8,8 @@ You can customize it. Start from `index.html`.
 
 ## Author & License
 
-This template has been developed by [@codewithsadee](https://www.twitter.com/codewithsadee). If you want to contact the author, you can reach out on [Twitter](https://www.twitter.com/codewithsadee). 
+This template has been developed by [okunolamide](https://www.instagram.com/okunolamide). If you want to contact the author, you can reach out on [instagram](https://www.instagram.com/okunolamide). 
 
-Donations: [Patreon](https://patreon.com/codewithsadee).
+
 
 License: MIT (see LICENSE file).
